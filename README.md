@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Abdurrahman-byte
-- 👀 I’m interested in coding and programming 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me abdurrahmandada164@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+👋 Hi, I’m Abdurrahman
+
+I'm a Frontend Developer focused on building clean, responsive, and user-friendly web interfaces. I work mainly with HTML, CSS, JavaScript, React, and Tailwind, and I enjoy improving UI quality and writing efficient code.
+
+ Skills
+
+HTML • CSS • JavaScript
+
+React • Tailwind CSS
+
+Git • GitHub • VS Code
+
+
+📌 Current Focus
+
+Sharpening problem-solving skills
+
+Building real-world frontend projects
+
+Improving design consistency & component structure
+
+
+🌐 Connect
+
+abdurrahmandada164@gmail.com
+
+
 
 <!---
 Abdurrahman-byte/Abdurrahman-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
