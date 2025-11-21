@@ -8,7 +8,7 @@ HTML • CSS • JavaScript
 
 React • Tailwind CSS
 
-Git • GitHub • VS Code
+Git • GitHub • VS Code • AI prompt Engineering 
 
 
 📌 Current Focus
